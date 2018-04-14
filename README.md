@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Final Project
 
-This repository final project for course 2 of the Coursera Data Science Specialization track: Getting and Cleaning Data.
+This is a project for the second course of the Coursera Data Science Specialization track: Getting and Cleaning Data.
 
 Companies like FitBit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The dataset used in this repository represents data collected from the accelerometers of the Samsung Galaxy S smartphone. A full description is available at:
 
